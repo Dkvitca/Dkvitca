@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Dan, a Computer Science Student in my 3rd year of College👨‍💻 </div>  
+### <div align="center">I'm Dan, a Software Developer👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [myAPI](https://github.com/Dkvitca/myAPI)  
+- 🔭 I’m currently working on [Ticketing]([https://github.com/Dkvitca/myAPI](https://github.com/Dkvitca/Ticketing))  
   
 
-- 🌱 I’m currently learning Node.Js   
+- 🌱 I’m currently learning k8s.   
   
 
 -  💻 through my college courses, I've obtained knowledge in Object Oriented programming, Algorithms, C# programming, Databases , Machine learning and more  
