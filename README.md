@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning k8s.   
   
 
--  💻 through my college courses, I've obtained knowledge in Object Oriented programming, Algorithms, C# programming, Databases , Machine learning and more  
+-  💻 most of the time writing scripts in python for automation of tasks.
   
 
 - 🌏 Currently I am working on extending my knowledge in the world of backend development.  
