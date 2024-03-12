@@ -6,7 +6,7 @@
 ### <div align="center">I'm Dan, a Software Developer👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Ticketing]([https://github.com/Dkvitca/myAPI](https://github.com/Dkvitca/Ticketing))  
+- 🔭 I’m currently working on [Ticketing]([https://github.com/Dkvitca/myAPI](https://github.com/Dkvitca/Ticketing]))  
   
 
 - 🌱 I’m currently learning k8s.   
