@@ -6,10 +6,10 @@
 ### <div align="center">I'm Dan, a Software Developer👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Ticketing](https://github.com/Dkvitca/Ticketing)
+- 🔭 I’m currently working on [Robotics]([https://github.com/Dkvitca/Ticketing])
   
 
-- 🌱 I’m currently learning k8s.   
+- 🌱 I’m currently learning Autonomous navigation.   
   
 
 -  💻 most of the time writing scripts in python for automation of tasks.
