@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dan, a Software Developer👨‍💻 </div>  
+### <div align="center">I'm Dan, a DevOps Engineer👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Robotics](https://github.com/Dkvitca/Robotic-UNO)
